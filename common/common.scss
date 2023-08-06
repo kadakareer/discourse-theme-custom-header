@@ -84,3 +84,9 @@
     }
   }
 }
+
+@media screen and (max-width: 768px) {
+  .b-header {
+    display: none;
+  }
+}
